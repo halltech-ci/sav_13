@@ -1,0 +1,4 @@
+[submodule "halltech-ci/apps"]
+	path = halltech-ci/apps
+	url = git@github.com:halltech-ci/apps.git
+	branch = data_backup
